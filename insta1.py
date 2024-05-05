@@ -6,8 +6,8 @@ from selenium.webdriver.common.by import By
 Path = Service("C:\Drivers\chromedriver_win32\chromedriver.exe")
 driver = webdriver.Chrome(service=Path)
 
-username="ronak_boy_010"
-password="ronak@97852"
+username="account name"
+password="account password"
 
 driver.get("https://www.instagram.com/")
 time.sleep(3)
