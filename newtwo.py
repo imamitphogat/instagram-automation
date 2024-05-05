@@ -1,8 +1,8 @@
 from instagram_private_api import Client, ClientCompatPatch
 
 # Replace with your own API credentials
-username = 'ronak_boy_010'
-password = 'ronak@97852'
+username = ''
+password = ''
 
 
 # Create an Instagram API client
